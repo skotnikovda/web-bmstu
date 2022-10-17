@@ -16,9 +16,14 @@
 - создание постов;
 - добавление комментариев к постам.
 
+## Use-case диаграмма
 
 ![alt text](WebBMSTU-UseCase.drawio.png)
 
+## Экраны будущего приложения
+
 ![alt text](WebBMSTU-Mockups.drawio.png)
+
+## ER диаграмма сущностей системы
 
 ![alt text](WebBMSTU-EntityRelationship.drawio.png)
