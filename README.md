@@ -16,3 +16,9 @@
 - создание постов;
 - добавление комментариев к постам.
 
+
+![alt text](WebBMSTU-UseCase.drawio.png)
+
+![alt text](WebBMSTU-Mockups.drawio.png)
+
+![alt text](WebBMSTU-EntityRelationship.drawio.png)
