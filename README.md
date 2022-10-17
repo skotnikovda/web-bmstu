@@ -27,3 +27,13 @@
 ## ER диаграмма сущностей системы
 
 ![alt text](WebBMSTU-EntityRelationship.drawio.png)
+
+## Бенчмарки
+
+### Без балансировки
+
+![alt text](ab-unbalanced.png)
+
+### С балансировкой
+
+![alt text](ab-balanced.png)
